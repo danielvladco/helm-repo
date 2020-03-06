@@ -1,0 +1,83 @@
+apiVersion: v1
+entries:
+  crossconnect-monitor:
+  - apiVersion: v1
+    appVersion: 0.2.0
+    created: "2020-03-06T08:55:39.011977581Z"
+    description: NSM Development tool to Log changes in cross connects
+    digest: 6d5725b00144f6d869f986e1d9395cce3673187268f426d3119f0c9b68b331de
+    name: crossconnect-monitor
+    urls:
+    - crossconnect-monitor-0.2.0.tgz
+    version: 0.2.0
+  icmp-responder:
+  - apiVersion: v1
+    appVersion: 0.2.0
+    created: "2020-03-06T08:55:39.0303453Z"
+    description: Endpoints and Clients for ICMP Responder Example
+    digest: 672b35aab1b9b0b4fbfb47e5150f88f23d671c5cdd0849f60f9ffb650e19b002
+    name: icmp-responder
+    urls:
+    - icmp-responder-0.2.0.tgz
+    version: 0.2.0
+  jaeger:
+  - apiVersion: v1
+    appVersion: 0.2.0
+    created: "2020-03-06T08:55:39.046584262Z"
+    description: Simple Jaeger installation for use by NSM Developers
+    digest: 320bdddddc2be6ee9acbc13a7f5ba30c744f3bc907de428e9064913d5a336aaf
+    name: jaeger
+    urls:
+    - jaeger-0.2.0.tgz
+    version: 0.2.0
+  nsm:
+  - apiVersion: v1
+    appVersion: 0.2.0
+    created: "2020-03-06T08:55:39.080336587Z"
+    description: Basic Network Service Mesh Infrastructure
+    digest: 14125227901248872593c46b71277bc5a22c1f51a8bb6fd2eaf3f85239d8ee22
+    name: nsm
+    urls:
+    - nsm-0.2.0.tgz
+    version: 0.2.0
+  proxy-nsmgr:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-03-06T08:55:39.093320941Z"
+    description: Proxy Network Service Manager (pNSMgr) to enable interdomain NSM
+    digest: 4200ba4dddfd635971752be0d3fc04ae7d8a4aa2d990555d7f7b115ed7a1cd95
+    name: proxy-nsmgr
+    urls:
+    - proxy-nsmgr-0.2.0.tgz
+    version: 0.2.0
+  skydive:
+  - apiVersion: v1
+    appVersion: 0.2.0
+    created: "2020-03-06T08:55:39.103065755Z"
+    description: Skydive for use by NSM Developers to visualize NSM Topology
+    digest: 58622291cc2dbfd040ca1133bc428553e5dd1c08fb13dbc3a83beb69c1b1e70d
+    name: skydive
+    urls:
+    - skydive-0.2.0.tgz
+    version: 0.2.0
+  vpn:
+  - apiVersion: v1
+    appVersion: 0.2.0
+    created: "2020-03-06T08:55:39.111464782Z"
+    description: Endpoints and Clients for VPN Example
+    digest: 61b62c5fe9ee06874b23051048bd253155bc4fa1e0369db26e761395df6300f3
+    name: vpn
+    urls:
+    - vpn-0.2.0.tgz
+    version: 0.2.0
+  vpp-icmp-responder:
+  - apiVersion: v1
+    appVersion: 0.2.0
+    created: "2020-03-06T08:55:39.12943072Z"
+    description: Endpoints and Clients for VPP ICMP Responder Example
+    digest: 2e5e7ec95e587c697c315b6cc2f4424b006e231373b80c50ef728591d973ea6c
+    name: vpp-icmp-responder
+    urls:
+    - vpp-icmp-responder-0.2.0.tgz
+    version: 0.2.0
+generated: "2020-03-06T08:55:38.992710528Z"
